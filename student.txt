@@ -1,3 +1,0 @@
-Name : Yash 
-Course : Python 
-File Handling program
