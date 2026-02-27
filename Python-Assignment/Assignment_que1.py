@@ -25,3 +25,15 @@ else:
     grade = "F"
 
 print("Your grade is ",grade)
+
+
+'''Output
+PS C:\Users\hp\Desktop\Harshda\DEVOPS ASSIGN\Python and Bash Assignment> python Assignment_que1.py
+Enter your marks:
+90
+Your grade is  A
+PS C:\Users\hp\Desktop\Harshda\DEVOPS ASSIGN\Python and Bash Assignment> python Assignment_que1.py
+Enter your marks:
+60
+Your grade is  D
+PS C:\Users\hp\Desktop\Harshda\DEVOPS ASSIGN\Python and Bash Assignment'''
