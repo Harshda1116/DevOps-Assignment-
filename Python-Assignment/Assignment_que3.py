@@ -13,3 +13,8 @@ file.write("File Handling program")
 file.close()
 
 print("Successful")
+
+''' output
+PS C:\Users\hp\Desktop\Harshda\DEVOPS ASSIGN\Python and Bash Assignment> python Assignment_que3.py
+Successful
+PS C:\Users\hp\Desktop\Harshda\DEVOPS ASSIGN\Python and Bash Assignment>  '''
