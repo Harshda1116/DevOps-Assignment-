@@ -9,4 +9,15 @@ content = file.read()
 print("File Content")
 print(content)
 
+
 file.close()
+
+'''output
+
+PS C:\Users\hp\Desktop\Harshda\DEVOPS ASSIGN\Python and Bash Assignment> python Assignment_que4.py
+File Content
+Name : Yash 
+Course : Python 
+File Handling program
+PS C:\Users\hp\Desktop\Harshda\DEVOPS ASSIGN\Python and Bash Assignment> 
+'''
